@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey there!
 
 I'm Mohamed Arfaaz Khan, an AI & ML Engineering student passionate about building practical software applications, especially in AI and Machine Learning.
 
